@@ -1,0 +1,12 @@
+body {
+    position: relative;
+    .block {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100px;
+        height: 100px;
+        transition: all .5s;
+        background-color: black;
+    }
+}
